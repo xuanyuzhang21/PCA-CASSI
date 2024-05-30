@@ -14,7 +14,7 @@
 Accepted for publication as a Regular paper in the IEEE Transactions on Circuits and Systems for Video Technology (TCSVT).
 
 ## Core Ideas
-![idea](assets/PCA-CASSI.png)
+![idea](./asserts/PCA-CASSI.png)
 
 
 ## Environment
