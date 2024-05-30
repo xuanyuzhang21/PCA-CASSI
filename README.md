@@ -22,7 +22,6 @@ Accepted for publication as a Regular paper in the IEEE Transactions on Circuits
 pip install -r requirements.txt
 ```
 ## Train
-Download the dataset of [Waterloo Exploration Database]
 
 ```
 python train.py --template pca --outf ./exp/pca/ --method pca
