@@ -23,7 +23,7 @@ pip install -r requirements.txt
 ```
 ## Train
 
-Please Download the CAVE dataset from [TSA-Net](https://github.com/mengziyi64/TSA-Net) and put it in the './datasets'.
+Please download the CAVE dataset from [TSA-Net](https://github.com/mengziyi64/TSA-Net) and put it in the './datasets'.
 
 ```
 python train.py --template pca --outf ./exp/pca/ --method pca
