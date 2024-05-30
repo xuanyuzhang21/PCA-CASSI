@@ -1,7 +1,7 @@
 
 <div align="center">
-<h3>Progressive Content-aware Coded Hyperspectral Compressive Imaging
-</h3>
+<h2>Progressive Content-aware Coded Hyperspectral Compressive Imaging
+</h2>
 
 [![arXiv](https://img.shields.io/badge/arXiv-<Paper>-<COLOR>.svg)](https://arxiv.org/abs/2303.09773)
 
