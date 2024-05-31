@@ -1,9 +1,13 @@
 import torch
 from .PCA_CASSI import PCA_CASSI
+from .RNDHRNet_share import RNDHRNet_share
 
 def model_generator(method, pretrained_model_path=None):
     if method == 'pca':
         model = PCA_CASSI().cuda()
+
+    if method == 'rnd':
+        model = RNDHRNet_share().cuda()
 
     else:
         print(f'Method {method} is not defined !!!!')
