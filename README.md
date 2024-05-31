@@ -36,7 +36,7 @@ Two-shot sampling and reconstruction. The model checkpoint file is provided in `
 python test.py --template pca --outf ./exp/pca/ --method pca --pretrained_model_path ./checkpoints/model.pth
 ```
 
-Single-shot reconstruction. The model checkpoint file is provided in './checkpoints/model_singleshot.pth'
+Single-shot reconstruction. The model checkpoint file is provided in `./checkpoints/model_singleshot.pth`.
 ```
 python test_singleshot.py --template pca --outf ./exp/rndhrnet/ --method rnd --pretrained_model ./checkpoints/model_singleshot.pth
 ```
