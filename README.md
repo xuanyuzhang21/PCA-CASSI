@@ -25,8 +25,14 @@ pip install -r requirements.txt
 
 Please download the CAVE dataset from [TSA-Net](https://github.com/mengziyi64/TSA-Net) and put it into the `./datasets` directory.
 
+Two-shot Training
 ```
 python train.py --template pca --outf ./exp/pca/ --method pca
+```
+
+Single-shot Training
+```
+python train_singleshot.py --template pca --method rnd --outf ./exp/rnd/
 ```
 
 ## Test
