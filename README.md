@@ -31,7 +31,12 @@ python train.py --template pca --outf ./exp/pca/ --method pca
 
 ## Test
 
-The model checkpoint file is provided in `./checkpoints`.
+Two-shot sampling and reconstruction. The model checkpoint file is provided in `./checkpoints/model.pth`.
 ```
 python test.py --template pca --outf ./exp/pca/ --method pca --pretrained_model_path ./checkpoints/model.pth
+```
+
+Single-shot reconstruction. The model checkpoint file is provided in './checkpoints/model_singleshot.pth'
+```
+python test_singleshot.py --template pca --outf ./exp/rndhrnet/ --method rnd --pretrained_model ./checkpoints/model_singleshot.pth
 ```
