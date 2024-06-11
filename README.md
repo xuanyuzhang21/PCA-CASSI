@@ -46,3 +46,13 @@ Single-shot reconstruction. The model checkpoint file is provided in `./checkpoi
 ```
 python test_singleshot.py --template pca --outf ./exp/rndhrnet/ --method rnd --pretrained_model ./checkpoints/model_singleshot.pth
 ```
+
+## Citation
+```
+@article{10551290,
+  author={Zhang, Xuanyu and Chen, Bin and Zou, Wenzhen and Liu, Shuai and Zhang, Yongbing and Xiong, Ruiqin and Zhang, Jian},
+  journal={IEEE Transactions on Circuits and Systems for Video Technology}, 
+  title={Progressive Content-Aware Coded Hyperspectral Snapshot Compressive Imaging}, 
+  year={2024},
+  doi={10.1109/TCSVT.2024.3409421}}
+```
