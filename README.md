@@ -3,7 +3,7 @@
 <h2>Progressive Content-aware Coded Hyperspectral Compressive Imaging
 </h2>
 
-[![arXiv](https://img.shields.io/badge/arXiv-<Paper>-<COLOR>.svg)](https://arxiv.org/abs/2303.09773) [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10551290) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xuanyuzhang21.PCA-CASSI)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.09773) [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10551290) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xuanyuzhang21.PCA-CASSI)
 
 [Xuanyu Zhang](https://xuanyuzhang21.github.io/), [Bin Chen](https://scholar.google.com/citations?user=aZDNm98AAAAJ&hl=zh-CN&oi=ao), Wenzhen Zou, Shuai Liu, Yongbing Zhang, Ruiqin Xiong and  [Jian Zhang](https://jianzhang.tech/)
 
