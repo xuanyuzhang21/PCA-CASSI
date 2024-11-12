@@ -1,6 +1,6 @@
 
 <div align="center">
-<h2>Progressive Content-aware Coded Hyperspectral Compressive Imaging
+<h2>(TCSVT 2024) Progressive Content-aware Coded Hyperspectral Compressive Imaging
 </h2>
 
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2303.09773) [![IEEE-Xplore](https://img.shields.io/badge/IEEE_Xplore-Paper-<COLOR>.svg)](https://ieeexplore.ieee.org/abstract/document/10551290) ![visitors](https://visitor-badge.laobi.icu/badge?page_id=xuanyuzhang21.PCA-CASSI)
